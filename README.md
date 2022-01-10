@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">A passionate backend/desktop developer from Brazil</h3>
+<h3 align="center">A passionate backend/desktop developer</h3>
 
 - 🏢 I’m currently working at **Agilize BPO Financeiro**
 
