@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">A passionate fullstack/desktop developer</h3>
+<h3 align="center">A passionate full stack/desktop developer</h3>
 
 - 🔭 I’m currently working on [Agilize](https://github.com/Soletrar/agilize)
 
